@@ -92,15 +92,6 @@ export default function Login() {
               <button className="bg-green-700 rounded px-4 py-2 text-white mb-6">
                 Sign In
               </button>
-              <p className="text-sm text-center">
-                Don't have an account?
-                <button
-                  className="ml-1 underline"
-                  onClick={() => setView('sign-up')}
-                >
-                  Sign Up Now
-                </button>
-              </p>
             </>
           )}
           {view === 'sign-up' && (
@@ -124,3 +115,16 @@ export default function Login() {
     </div>
   )
 }
+
+/*part deleted from right under sign in button element
+<p className="text-sm text-center">
+                Don't have an account?
+                <button
+                  className="ml-1 underline"
+                  onClick={() => setView('sign-up')}
+                >s
+                  Sign Up Now
+                </button>
+              </p>
+
+*/
