@@ -1,3 +1,4 @@
+#seva-app
 An app to enable affordable mass communication between nonprofits and the people they serve. Utilizing Next.js, React, Tailwind CSS, Supabase, Twilio. Started in July 2023. 
 
 Team:
