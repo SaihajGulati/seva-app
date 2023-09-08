@@ -2,10 +2,10 @@
 An app to enable affordable mass communication between nonprofits and the people they serve. Utilizing Next.js, React, Tailwind CSS, Supabase, Twilio. Started in July 2023. 
 
 Team:
-Saihaj Gulati (Team Lead)
-Mehar Gulati
-Amrit Grewal
-Juskeerat Anand
+- Saihaj Gulati (Team Lead)
+- Mehar Gulati
+- Amrit Grewal
+- Juskeerat Anand
 
 -----
 # Supabase Starter
